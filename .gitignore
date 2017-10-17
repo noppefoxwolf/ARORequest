@@ -109,3 +109,7 @@ fastlane/test_output
 
 .bundle
 vendor
+
+Carthage/*
+!Carthage/ARORequest
+*.framework.zip
